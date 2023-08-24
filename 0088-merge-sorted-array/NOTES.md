@@ -18,7 +18,7 @@ p starts at (m + n) - 1, indicating the last available position in the merged ar
 
 Merging Process:
 
-The code uses a while loop to perform the merging process. The loop continues until there are elements left in nums2 (i.e., p2 is greater than or equal to 0).
+The code uses a while loop to perform the merging process. The loop continues until there are no elements left in nums2 (i.e., p2 is greater than or equal to 0).
 
 Comparison and Placement:
 
